@@ -2,6 +2,6 @@
 
 Some text 
 
-##Learn git from the local machine
+## Learn git from the local machine
 
-Easy to learn something when you are not puting in lait
+Open index.html in your browser
